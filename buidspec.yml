@@ -11,7 +11,3 @@ artifacts:
       files:
         - directory/file1
       name: secondary-artifact-name-1
-    artifact2:
-      files:
-        - directory/file2
-      name: secondary-artifact-name-2
