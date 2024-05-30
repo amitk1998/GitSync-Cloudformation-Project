@@ -1,0 +1,4 @@
+template-file-path: ./s3.yaml
+tags:
+  Name: gitsync
+  Project: S3
