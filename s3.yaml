@@ -4,7 +4,7 @@ Description: Template to create an EC2 instance
 Parameters:
   InstanceType:
     Type: String
-    Description: Type of EC2 instance
+    Description: Type of EC2 instances
     Default: t2.micro
     AllowedValues:
       - t2.micro
